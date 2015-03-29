@@ -1,0 +1,8 @@
+25.2994	Normal
+15.2778	Severely underweight
+14.2687	Very severely underweight
+36.2624	Severely obese
+19.5918	Underweight
+30.1896	Moderately obese
+44.687	Very severely obese
+255.996	Your MOM
